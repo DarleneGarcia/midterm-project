@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="phonto.png" width="400" alt="Student Management System Logo">
+  <img src="Logo.png" width="400" alt="Student Management System Logo">
 </p>
 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red?style=flat-square)
@@ -38,29 +38,41 @@ It provides a simple interface for adding, updating, viewing, and deleting stude
 
 ## ⚙️ Installation Instructions
 
-```bash
 # 1. Clone the repository
+```bash
 git clone https://github.com/DarleneGarcia/midterm-project.git
+```
 
 # 2. Go to the project folder
+```bash
 cd midterm-project
+```
 
 # 3. Install dependencies
+```bash
 composer install
 npm install
+```
 
 # 4. Copy environment file
+```bash
 cp .env.example .env
+```
 
 # 5. Generate app key
+```bash
 php artisan key:generate
+```
 
 # 6. Set up database credentials in .env
 
 # 7. Run migrations
+```bash
 php artisan migrate
+```
 
 # 8. Start the server
+```bash
 php artisan serve
 Visit the system at http://127.0.0.1:8000
 ```
@@ -75,8 +87,8 @@ Visit the system at http://127.0.0.1:8000
 
 ---
 
-## 💻 Code Snippet Example
-
+## 💻 Code Example
+![Code Example](StudentController.png)
 ---
 
 ## 👩‍💻 Contributor
