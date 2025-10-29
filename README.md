@@ -6,6 +6,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 </p>
+
 ---
 
 ## 🧾 Overview
@@ -87,7 +88,8 @@ Visit the system at http://127.0.0.1:8000
 ---
 
 ## 💻 Code Example
-![Code Example](StudentController.png)
+![Code Example](StudentControler.png)
+
 ---
 
 ## 👩‍💻 Contributor
